@@ -2,9 +2,9 @@
 title: "Interdisciplinary Consultation or Collaboration in Gender Affirming Care"
 date: 2022-10-04
 categories:
-- mental health
-- new york university
+- Mental Health
 tags:
+- New York University
 keywords:
 - transgender
 autoThumbnailImage: true

@@ -2,9 +2,10 @@
 title: "A Transgender Man: How My Development Through Adolescence Was Affected"
 date: 2021-05-06
 categories:
-- transgender
+- Transgender
 tags:
-- transgender
+- Transgender
+- New York University
 keywords:
 - transgender
 - psychology
