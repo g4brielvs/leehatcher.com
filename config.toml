@@ -34,7 +34,7 @@ canonifyurls = true
 # ------
 [author]
   name = "Lee Hatcher"
-  bio = "MA Student at Department of Applied Psychology, New York University"
+  bio = "MA Student at the Department of Applied Psychology, New York University"
   location = "NYC"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = ""
