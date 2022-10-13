@@ -2,9 +2,9 @@
 title: 'Augusten Burroughs: Abnormal Psychology and Substance Abuse'
 date: 2021-12-06
 categories:
-- Transgender
+- Mental Health
+- Substance Abuse
 tags:
-- Transgender
 - New York University
 keywords:
 - transgender
