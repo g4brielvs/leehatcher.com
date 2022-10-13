@@ -1,5 +1,5 @@
 ---
-title: "Augusten Burroughs: Abnormal Pyshcology and Substance Abuse"
+title: 'Augusten Burroughs: Abnormal Psychology and Substance Abuse'
 date: 2021-12-06
 categories:
 - Transgender
@@ -10,9 +10,9 @@ keywords:
 - transgender
 - psychology
 autoThumbnailImage: true
-thumbnailImagePosition: "left"
----
+thumbnailImagePosition: left
 
+---
 Augusten Burroughs, aged 27, is a caucasian male whose first and only language is
 English. His current occupation is as a creative freelancer in the advertising business. He lives in
 an apartment in an affluent part of Manhattan, New York. Mr. Burrough’s presenting problem, as
