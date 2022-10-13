@@ -1,9 +1,8 @@
 +++
 autoThumbnailImage = false
-categories = ["Transgender"]
+categories = ["New York University", "Transgender"]
 coverImage = ""
 date = 2022-04-20T04:00:00Z
-draft = true
 keywords = ["suicidal ideation", " puberty blockers", "gender affirmation", "transgender"]
 tags = []
 thumbnailImage = ""
