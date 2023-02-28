@@ -1,5 +1,5 @@
 +++
-autoThumbnailImage = false
+autoThumbnailImage = true
 categories = []
 coverImage = ""
 date = 2022-11-20T05:00:00Z
