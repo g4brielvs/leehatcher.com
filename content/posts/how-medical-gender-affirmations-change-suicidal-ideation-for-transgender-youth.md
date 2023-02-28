@@ -1,5 +1,5 @@
 +++
-autoThumbnailImage = false
+autoThumbnailImage = true
 categories = ["New York University", "Transgender"]
 coverImage = ""
 date = 2022-04-20T04:00:00Z
