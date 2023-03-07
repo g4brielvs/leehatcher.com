@@ -30,6 +30,7 @@ fields:
   name: coverImage
   label: coverImage
 pages:
+- content/posts/autism-and-parenting.md
 - content/posts/brazillian-mental-health-care-the-experience-of-one-queer-male.md
 - content/posts/how-medical-gender-affirmations-change-suicidal-ideation-for-transgender-youth.md
 - content/posts/invisible-identities.md
