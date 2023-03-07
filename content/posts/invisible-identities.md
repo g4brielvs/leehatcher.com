@@ -1,6 +1,6 @@
 +++
 autoThumbnailImage = true
-categories = []
+categories = ["NYU"]
 coverImage = ""
 date = 2022-10-04T04:00:00Z
 draft = true
