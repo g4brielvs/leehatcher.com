@@ -3,7 +3,6 @@ autoThumbnailImage = true
 categories = ["NYU"]
 coverImage = ""
 date = 2022-10-04T04:00:00Z
-draft = true
 keywords = []
 tags = ["psychology", "mental health"]
 thumbnailImage = ""
